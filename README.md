@@ -21,6 +21,12 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>                             
 </p>
 
+## 😎 Main Projects:
+### 🤔 If you want to know more about my work, you can see these projects:
+* 🌱 [Plant Manager](https://github.com/RenzoSev/plant-manager)
+* 🛒 [Shopping Cart](https://github.com/RenzoSev/shooping-cart)
+* 💚 [Trybe Projects](https://github.com/RenzoSev/trybe-projects)
+
 ## 🤝Contact me:
 👷 [Linkedin](https://www.linkedin.com/in/renzo-sevilha/)
 </br>

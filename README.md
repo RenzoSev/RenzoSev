@@ -1,7 +1,7 @@
 # Hi, I'm Renzo!!
 <p display=flex>
 <img height="225" width="480" src="https://user-images.githubusercontent.com/73757018/116011184-17860c00-a5fa-11eb-9208-83af9eb2f3cd.jpg"/>
-<img height="225" width="400" src="https://media.giphy.com/media/yoJC2lKmI4ljtpdiJa/giphy.gif"/>
+<img height="225" width="300" src="https://media.giphy.com/media/yoJC2lKmI4ljtpdiJa/giphy.gif"/>
 </p>
 
 💻 I'm a software developer who is currently studying at [Trybe](https://www.betrybe.com/). 

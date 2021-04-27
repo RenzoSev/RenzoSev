@@ -29,9 +29,9 @@
 * 💚 [Trybe Projects](https://github.com/RenzoSev/trybe-projects)
 
 ## 🤝Contact me:
-👷 [Linkedin](https://www.linkedin.com/in/renzo-sevilha/)
-</br>
-✉️ sevilharenzo@gmail.com
+<a href="https://www.linkedin.com/in/renzo-sevilha/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:sevilharenzo@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+<a href="https://www.instagram.com/renzosevilha/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <!--
 **RenzoSev/RenzoSev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

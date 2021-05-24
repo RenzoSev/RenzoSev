@@ -1,4 +1,6 @@
 # Hi, I'm Renzo!!
+<a href="https://www.linkedin.com/in/renzo-sevilha/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:sevilharenzo@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 <p display=flex>
 <img height="225" width="480" src="https://user-images.githubusercontent.com/73757018/116011184-17860c00-a5fa-11eb-9208-83af9eb2f3cd.jpg"/>
 <img height="225" width="300" src="https://media.giphy.com/media/yoJC2lKmI4ljtpdiJa/giphy.gif"/>
@@ -31,22 +33,3 @@ alt="react"/>
 * 🌱 [Plant Manager](https://github.com/RenzoSev/plant-manager)
 * 🛒 [Shopping Cart](https://github.com/RenzoSev/shooping-cart)
 * 💚 [Trybe Projects](https://github.com/RenzoSev/trybe-projects)
-
-## 🤝Contact me:
-<a href="https://www.linkedin.com/in/renzo-sevilha/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:sevilharenzo@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
-<a href="https://www.instagram.com/renzosevilha/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<!--
-**RenzoSev/RenzoSev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

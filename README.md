@@ -6,9 +6,9 @@
 <img height="225" width="300" src="https://media.giphy.com/media/yoJC2lKmI4ljtpdiJa/giphy.gif"/>
 </p>
 
-🧙‍♂️ I'm a software developer who is currently studying at [Trybe](https://www.betrybe.com/). 
+🧙‍♂️ I'm a Software Developer who is currently studying at [Trybe](https://www.betrybe.com/). 
 </br>
-🤓 I am currently learning React. I am very interested in improving my knowledge in React Native and Typescript.
+🤓 I am currently learning MongoDB. I am very interested in improving my knowledge in NodeJS.
 </br>
 📙 Furthermore, I am finising my English Course at [Fisk](https://fisk.com.br/). 
 </br>

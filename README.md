@@ -6,15 +6,15 @@
 <img height="225" width="300" src="https://media.giphy.com/media/yoJC2lKmI4ljtpdiJa/giphy.gif"/>
 </p>
 
-🧙‍♂️ I'm a Software Developer who is currently studying at [Trybe](https://www.betrybe.com/). 
+🧙‍♂️ I'm a Software Developer at Melhor Plano who is currently studying at [Trybe](https://www.betrybe.com/). 
 </br>
-🤓 I am currently learning MongoDB. I am very interested in improving my knowledge in NodeJS.
+🤓 I am currently learning Sequelize. I am very interested in improving my knowledge in AWS.
 </br>
 📙 Furthermore, I am finising my English Course at [Fisk](https://fisk.com.br/). 
 </br>
 🧐 I keep focused on the constant absorption of information about technology, aiming my personal and collaborative improvement. 
 </br>
-🚀 Anxious to become part of the massive growth of technology in the world! 
+🚀 My professional goal is to make an impact through people and technologies: to develop solutions with a team and lines of code.
 ## 🖥️ Technologies:
 <section>
 <h3>Languages</h3>
@@ -42,6 +42,7 @@ alt="react"/>
 <img height="30" width="30" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="mysql"/>
 <img height="30" width="30" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodb"/>                                 
 <img height="30" width="30" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="nodejs"/>
+<img height="30" width="30" src="https://khalilstemmler.com/img/blog/sequelize/banner.png" alt="nodejs"/> 
 </p>                                                                                                         
 </section>                                                                                                         
 

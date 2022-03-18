@@ -48,6 +48,6 @@ alt="react"/>
 
 ## 😎 Main Projects:
 ### 🤔 If you want to know more about my work, you can see these projects:
-* 🌱 [Plant Manager](https://github.com/RenzoSev/plant-manager)
-* 🛒 [Shopping Cart](https://github.com/RenzoSev/shooping-cart)
-* 💚 [Trybe Projects](https://github.com/RenzoSev/trybe-projects)
+* 👾 [StypeWars](https://github.com/RenzoSev/stypewars)
+* 📰 [Kiev](https://github.com/RenzoSev/kiev)
+* ⌚ [Trybe TypeScript Countdown](https://github.com/RenzoSev/typescript-countdown)

@@ -8,7 +8,7 @@
 
 🧙‍♂️ I'm a Software Developer at Melhor Plano who is currently studying at [Trybe](https://www.betrybe.com/). 
 </br>
-🤓 I am currently learning Sequelize. I am very interested in improving my knowledge in AWS.
+🤓 I am currently learning about Docker.
 </br>
 📙 Furthermore, I am finising my English Course at [Fisk](https://fisk.com.br/). 
 </br>

@@ -48,6 +48,8 @@ alt="react"/>
 
 ## 😎 Main Projects:
 ### 🤔 If you want to know more about my work, you can see these projects:
+* ⌚ [Trybe TypeScript Countdown](https://github.com/RenzoSev/typescript-countdown)
+* 🗂️ [Descardes](https://github.com/RenzoSev/descardes)                                                                                              
 * 👾 [StypeWars](https://github.com/RenzoSev/stypewars)
 * 📰 [Kiev](https://github.com/RenzoSev/kiev)
-* ⌚ [Trybe TypeScript Countdown](https://github.com/RenzoSev/typescript-countdown)
+* 🌕 [(WIP) Hamlet](https://github.com/RenzoSev/hamlet)                                                                                                  

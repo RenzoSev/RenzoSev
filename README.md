@@ -6,7 +6,7 @@
 <img height="225" width="300" src="https://media.giphy.com/media/yoJC2lKmI4ljtpdiJa/giphy.gif"/>
 </p>
 
-🧙‍♂️ I'm a Software Developer at Melhor Plano. I am currently part of the product process team: We seek to improve our services for more than 3.000.000 people through testing A/B, usability testing, UI/UX improvements and creations on the website and in our own APIs. I have some experience with crawlers too.
+🧙‍♂️ I'm a Software Developer at Melhor Plano. I am currently part of the product process team: we seek to improve our services for more than 3.000.000 people through testing A/B, usability testing, UI/UX improvements and creations on the website and in our own APIs. I have some experience with crawlers too.
 </br>
 🤓 I am currently learning about Docker.
 </br>

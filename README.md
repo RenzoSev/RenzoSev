@@ -6,7 +6,7 @@
 <img height="225" width="300" src="https://media.giphy.com/media/yoJC2lKmI4ljtpdiJa/giphy.gif"/>
 </p>
 
-🧙‍♂️ I'm a Software Developer at Melhor Plano. I am currently part of the product process team: we seek to improve our services for more than 3.000.000 people through testing A/B, usability testing, UI/UX improvements and creations on the website and in our own APIs. I have some experience with crawlers too.
+🧙‍♂️ I currently work at RTB House as a Full Stack Developer – a Polish company that works with retargeting. We handle tickets on a day-to-day basis through international communication (we talk to all kinds of people from different regions of the world) and solutions to specific problems. In addition, we also develop software to solve internal problems in the company. We mostly use the following technologies: Nuxt, Vuex, UI Kits, Nodejs, JavaScript, Typescript, Jenkins, Bash, Gitlab, Git, etc;
 </br>
 🤓 I am currently learning about Docker.
 </br>

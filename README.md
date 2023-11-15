@@ -8,7 +8,7 @@
 
 🧙‍♂️ I currently work at RTB House as a Full Stack Developer – a Polish company that works with retargeting. We handle tickets on a day-to-day basis through international communication (we talk to all kinds of people from different regions of the world) and solutions to specific problems. In addition, we also develop software to solve internal problems in the company. We mostly use the following technologies: Nuxt, Vuex, UI Kits, Nodejs, JavaScript, Typescript, Jenkins, Bash, Gitlab, Git, etc;
 </br>
-🤓 I am currently learning about Docker.
+🤓 I am currently learning about low level programming.
 </br>
 📙 Furthermore, I am finising my English Course at [Fisk](https://fisk.com.br/). 
 </br>

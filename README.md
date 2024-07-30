@@ -1,21 +1,17 @@
-# Hi, I'm Renzo!!
+# Hey there. =)
+## [renzosevilha](https://renzosevilha.com)
 <a href="https://www.linkedin.com/in/renzo-sevilha/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:sevilharenzo@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
-<br/><a href="mailto:sevilharenzo@gmail.com">https://calendly.com/renzosevilha</a>
+<br/>📅 <a href="mailto:sevilharenzo@gmail.com">https://calendly.com/renzosevilha</a>
 <p display=flex>
-<img height="225" width="480" src="https://user-images.githubusercontent.com/73757018/116011184-17860c00-a5fa-11eb-9208-83af9eb2f3cd.jpg"/>
 <img height="225" width="300" src="https://media.giphy.com/media/yoJC2lKmI4ljtpdiJa/giphy.gif"/>
 </p>
 
-🧙‍♂️ I currently work at RTB House as a Full Stack Developer – a Polish company that works with retargeting. We handle tickets on a day-to-day basis through international communication (we talk to all kinds of people from different regions of the world) and solutions to specific problems. In addition, we also develop software to solve internal problems in the company. We mostly use the following technologies: Nuxt, Vuex, UI Kits, Nodejs, JavaScript, Typescript, Jenkins, Bash, Gitlab, Git, etc;
-</br>
-🤓 I am currently learning about low level programming.
-</br>
-📙 Furthermore, I am finising my English Course at [Fisk](https://fisk.com.br/). 
-</br>
-🧐 I keep focused on the constant absorption of information about technology, aiming my personal and collaborative improvement. 
-</br>
-🚀 My professional goal is to make an impact through people and technologies: to develop solutions with a team and lines of code.
+- More than 3 years working remotely with JavaScript, Python, Docker and AWS.
+
+- I have experience building web applications for more than 10.000.000 uniques users for the largest comparator of telecom and financial services plans in Brazil.
+
+- Also worked for a global retargeting company, focused on MarTech industry through the field of AI with Deep learning. I created internal solutions for 1000+ specialists in over 30 locations around the globe, and developed applications for more than 3,000 campaigns for clients across the EMEA, APAC, and Americas regions.
 ## 🖥️ Technologies:
 <section>
 <h3>Languages</h3>
